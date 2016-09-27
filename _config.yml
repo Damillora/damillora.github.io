@@ -1,0 +1,38 @@
+# Site settings
+name: Damillora
+email: duniapengetahuan.12345@gmail.com
+author: Damillora
+url: http://damillora.github.io
+resume_site: 
+github: https://github.com/Damillora/
+baseurl: ""
+description: programming, anime, enlightened faction, and murakami fumio
+meta_description: 
+motto: 
+banner: 
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: Damillora
+highlighter: rouge
+
+gems: [jekyll-paginate]
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    provider : disqus
+    duoshuo:
+        short_name : wow
+    disqus :
+        short_name : damillora
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
