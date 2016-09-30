@@ -6,4 +6,6 @@ categories: blog
 tag: anime
 ---
 
-Temporary placeholder
+![suzukaze-aoba-1]({{ site.url }}/fumio/suzukaze-aoba-1.jpg)
+
+aoba-chan is cute
