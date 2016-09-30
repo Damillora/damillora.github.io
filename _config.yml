@@ -19,7 +19,7 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 github_username: Damillora
 highlighter: rouge
-
+future: true
 gems: [jekyll-paginate]
 # Build settings
 markdown: kramdown
