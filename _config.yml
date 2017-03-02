@@ -1,38 +1,29 @@
 # Site settings
-name: Damillora
+title: Damillora
 email: duniapengetahuan.12345@gmail.com
-author: Damillora
-url: http://damillora.github.io
-resume_site: 
-github: https://github.com/Damillora/
-baseurl: ""
-description: programming, anime, and enlightened faction
-meta_description: 
-motto: 
-banner: 
+description: > # this means to ignore newlines until "baseurl:"
+  programming, anime, and lots of other things
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://damillora.github.io" # the base hostname & protocol for your site
+twitter_username: Damillora
+github_username:  Damillora
+#google_play: 'GDGX'
+#google_plus_com: '109485346959707049693'  # Community link
+#google_plus_per: '+GDGManagua'  #Personal link
+facebook_app_id: 12345
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
-paginate: 10
+# Layout settings
+header_type: drawer  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+more_vert:
+  option1:
+    name: NitroKIR IT
+    link: nitrokir-it.github.io
 
-github_username: Damillora
-highlighter: rouge
-future: true
-gems: [jekyll-paginate]
+disqus: true
+disqus_shortname: 'damillora''
+
 # Build settings
 markdown: kramdown
-
-FB:
-  comments :
-    provider : disqus
-    duoshuo:
-        short_name : wow
-    disqus :
-        short_name : damillora
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
