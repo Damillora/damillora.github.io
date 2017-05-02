@@ -1,0 +1,58 @@
+==================================================================
+https://keybase.io/damillora
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://damillora.github.io
+  * I am damillora (https://keybase.io/damillora) on keybase.
+  * I have a public key ASBMOvyXOT6XBRDKBjeaCiIkC4prAz9RmscfpPHLZamDggo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": 
+"01204c3afc97393e970510ca06379a0a22240b8a6b033f519ac71fa4f1cb65a983820a",
+            "host": "keybase.io",
+            "kid": 
+"01204c3afc97393e970510ca06379a0a22240b8a6b033f519ac71fa4f1cb65a983820a",
+            "uid": "c8acd919e656b29d93aacd4022415019",
+            "username": "damillora"
+        },
+        "service": {
+            "hostname": "damillora.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1493692771,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493692666,
+        "hash": 
+"f41d5f9b0e45526baa1a1db1a01f59ad7bfe1595f1bb3813538b5e109cb27f26655d5b0ab3babec4c598a9c72855efc81aa7415ab4dd368be0f54fcc64ea6970",
+        "seqno": 1048633
+    },
+    "prev": "fc89c16c23161677dda1872e9f230772602e892a6cd23431ab127d7960f4d852",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTDr8lzk+lwUQygY3mgoiJAuKawM/UZrHH6Txy2Wpg4IKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGMzYWZjOTczOTNlOTcwNTEwY2EwNjM3OWEwYTIyMjQwYjhhNmIwMzNmNTE5YWM3MWZhNGYxY2I2NWE5ODM4MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGMzYWZjOTczOTNlOTcwNTEwY2EwNjM3OWEwYTIyMjQwYjhhNmIwMzNmNTE5YWM3MWZhNGYxY2I2NWE5ODM4MjBhIiwidWlkIjoiYzhhY2Q5MTllNjU2YjI5ZDkzYWFjZDQwMjI0MTUwMTkiLCJ1c2VybmFtZSI6ImRhbWlsbG9yYSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZGFtaWxsb3JhLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIyIn0sImN0aW1lIjoxNDkzNjkyNzcxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTM2OTI2NjYsImhhc2giOiJmNDFkNWY5YjBlNDU1MjZiYWExYTFkYjFhMDFmNTlhZDdiZmUxNTk1ZjFiYjM4MTM1MzhiNWUxMDljYjI3ZjI2NjU1ZDViMGFiM2JhYmVjNGM1OThhOWM3Mjg1NWVmYzgxYWE3NDE1YWI0ZGQzNjhiZTBmNTRmY2M2NGVhNjk3MCIsInNlcW5vIjoxMDQ4NjMzfSwicHJldiI6ImZjODljMTZjMjMxNjE2NzdkZGExODcyZTlmMjMwNzcyNjAyZTg5MmE2Y2QyMzQzMWFiMTI3ZDc5NjBmNGQ4NTIiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC/RD4nAIVi23v5KPMktQAlbw0xCly2ZZlZeBTshvANriYt8YOOf+2y7J2p8m2TujgXnCJ27cEvZtmEqflGtDcJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsf5B7vf1aGttNfTcKjTI3esSvJKPNep96Ix8GP2y++ijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/damillora
+
+==================================================================
+
